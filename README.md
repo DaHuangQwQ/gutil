@@ -1,2 +1,0 @@
-# gutil
-go util
